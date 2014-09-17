@@ -15,6 +15,6 @@ To use the fibonacci function, you simply add an input in the arguments. Example
 Input has to be a whole number higher than 0 (starting from 1).
 
 ```console
-fibonnaci(5)
+fib(5)
 >> 8
 ```
